@@ -1,0 +1,38 @@
+<content>
+	<meta id="kongfz">
+		<url id="root">http://search.kongfz.com/</url>
+		<rule>
+			<prefix id="search-prefix">http://book.kongfz.com</prefix>
+		</rule>
+	</meta>
+	<categories id="kongfz-cats">
+		<category id="8">线装古旧书</category>
+		<category id="9">民国旧书</category>
+		<category id="32">二手教材</category>
+		<category id="43">小说</category>
+		<category id="1">文学</category>
+		<category id="3">历史</category>
+		<category id="23">地理</category>
+		<category id="5">法律</category>
+		<category id="24">军事</category>
+		<category id="14">经济</category>
+		<category id="25">管理</category>
+		<category id="4">艺术</category>
+		<category id="26">生活</category>
+		<category id="7">社会文化</category>
+		<category id="28">教育</category>
+		<category id="13">语言文字</category>
+		<category id="44">哲学心理</category>
+		<category id="29">宗教</category>
+		<category id="18">政治</category>
+		<category id="19">体育</category>
+		<category id="11">理科工程技术</category>
+		<category id="15">自然科学</category>
+		<category id="17">医药卫生</category>
+		<category id="31">计算机网络</category>
+		<category id="16">工具书</category>
+		<category id="20">综合其他</category>
+		<category id="12">国学古籍收藏</category>
+		<category id="34">红色文献</category>
+	</categories>
+</content>
